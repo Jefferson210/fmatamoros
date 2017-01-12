@@ -1,0 +1,27 @@
+body.genesis-simple-page-sections .site-container,
+body.genesis-simple-page-sections #inner,
+body.genesis-simple-page-sections #inner .wrap,
+body.genesis-simple-page-sections #content-sidebar-wrap, 
+body.genesis-simple-page-sections div.content-sidebar-wrap, 
+body.genesis-simple-page-sections #content,
+body.genesis-simple-page-sections main.content, 
+body.genesis-simple-page-sections div.site-inner,
+body.genesis-simple-page-sections div.site-inner article,
+body.genesis-simple-page-sections div.site-inner .wrap {
+  margin-bottom: 0;
+  max-width: none;
+  padding: 0;
+  width: 100%;
+}
+div.gsps-outer {
+  clear: both; 
+  display: block; 
+  overflow: hidden;
+  padding: 0;
+  width: 100%;
+}
+div.gsps-inner {
+  margin: 5rem auto;
+  max-width: 800px;
+  overflow: hidden;
+}

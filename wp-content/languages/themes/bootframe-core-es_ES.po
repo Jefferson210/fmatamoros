@@ -1,0 +1,1947 @@
+# Translation of BootFrame Core in Spanish (Spain)
+# This file is distributed under the same license as the BootFrame Core package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-31 21:15:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: BootFrame Core\n"
+
+#. Theme Name of the plugin/theme
+msgid "BootFrame Core"
+msgstr "BootFrame Core"
+
+#. Description of the plugin/theme
+msgid "BootFrame Core is a multipurpose and responsive WordPress theme built with HTML5, CSS3 based on Bootstrap framework. BootFrame is highly customizable with unlimited color and font options, logo upload, social media icons and much more that can be adjusted via Costomizer. You can easy build for your business site, portfolio, blog, one page or any other site. BootFrame supports Site Origin's Page Builder which allows you to build any page layout required. It's also integrated with popular plugins: Contact Form 7, WPML, Polylang, Shortcodes Ultimate, Meta Slider"
+msgstr "BootFrame Core es un tema de Wordpress responsivo y multipropósito creado con HTML5, Framework Bootstrap basado en CSS3. BootFrame es altamente customizable con ilimitadas opciones de fuente y color, carga de logo, íconos de medios sociales y mucho mas que puede ser ajustado a través del Customizador. Usted puede crear fácilmente su sitio de negocios, portfolio, blog, única página o cualquier otro sitio. BootFrame soporta Site Origin's Page Builder que le permite crear  cualquier diseño de página requerido. También está integrado con plugins populares: Contact Form 7, WPML, Polylang, Shortcodes Ultimate, Meta Slider"
+
+#: smart-lib/integrations/metabox-integration.php:238
+msgid "Facebook profile"
+msgstr "Perfil de Facebook"
+
+#: smart-lib/integrations/metabox-integration.php:248
+msgid "Twitter profile"
+msgstr "Perfil de Twitter"
+
+#: smart-lib/integrations/metabox-integration.php:269
+msgid "Linkedin profile"
+msgstr "Perfil de Linkedin"
+
+#: smart-lib/integrations/metabox-integration.php:280
+msgid "Google+ profile"
+msgstr "Perfil de Google+"
+
+#: smart-lib/integrations/metabox-integration.php:297
+msgid "Additional information to the content"
+msgstr "Información adicional al contenido"
+
+#: smart-lib/integrations/metabox-integration.php:313
+msgid "Client Name"
+msgstr "Nombre de Cliente"
+
+#: smart-lib/integrations/metabox-integration.php:323
+msgid "Portfolio images"
+msgstr "Imágenes de Portfolio"
+
+#: smart-lib/integrations/metabox-integration.php:259
+msgid "Pinterest profile"
+msgstr "Perfil de Pinterest"
+
+#: smart-lib/integrations/metabox-integration.php:227
+msgid "E-mail"
+msgstr "Email"
+
+#: smart-lib/integrations/metabox-integration.php:216
+msgid "Position"
+msgstr "Puesto"
+
+#: smart-lib/integrations/metabox-integration.php:94
+msgid "Background image in the header"
+msgstr "Imagen de fondo en el encabezado"
+
+#: smart-lib/integrations/metabox-integration.php:103
+msgid "Page Header Dark Section"
+msgstr "Sección Oscura de Encabezado de Página"
+
+#: smart-lib/integrations/metabox-integration.php:108
+msgid "Select if uploaded  background is dark"
+msgstr "Seleccionar si fondo subido es oscuro"
+
+#: smart-lib/integrations/metabox-integration.php:113
+msgid "Paralax Heder Effect"
+msgstr "Efecto Parallax de Encabezado"
+
+#: smart-lib/integrations/metabox-integration.php:122
+msgid "Page Header Over Layer Background"
+msgstr "Encabezado de Página sobre capa de fondo"
+
+#: smart-lib/integrations/metabox-integration.php:125
+msgid "It works only with a background image in the header"
+msgstr "Funciona solamente con una imagen de fondo en el encabezado"
+
+#: smart-lib/integrations/metabox-integration.php:151
+msgid "Top Bar Settings"
+msgstr "Configuraciones de Barra Superior"
+
+#: smart-lib/integrations/metabox-integration.php:166
+msgid "Display top bar"
+msgstr "Visualizar barra superior"
+
+#: smart-lib/integrations/metabox-integration.php:178
+msgid "Footer Settings"
+msgstr "Configuraciones de Pie de Página"
+
+#: smart-lib/integrations/metabox-integration.php:184
+msgid "Display Footer Sidebar"
+msgstr "Visualizar Barra Lateral de Pie de Página"
+
+#: smart-lib/integrations/metabox-integration.php:199
+msgid "Team Member Info"
+msgstr "Informacion de Miembro del Equipo"
+
+#: smart-lib/integrations/metabox-integration.php:84
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: smart-lib/integrations/metabox-integration.php:27
+msgid "Page Options"
+msgstr "Opciones de Página"
+
+#: smart-lib/integrations/metabox-integration.php:82
+msgid "No sidebar"
+msgstr "Sin Sidebar"
+
+#: smart-lib/integrations/metabox-integration.php:83
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: smart-lib/integrations/metabox-integration.php:49
+msgid "Page subtitle"
+msgstr "Subtitulo de Página"
+
+#: smart-lib/integrations/metabox-integration.php:53
+msgid "Add page subtitle"
+msgstr "Agregar Subtitulo de Página"
+
+#: smart-lib/integrations/metabox-integration.php:63
+msgid "Show breadcrumb"
+msgstr "Mostrar Breadcrumb"
+
+#: smart-lib/integrations/metabox-integration.php:76
+msgid "Page Layout"
+msgstr "Diseño de Página"
+
+#. Template Name of the plugin/theme
+msgid "One Page"
+msgstr "Una Página"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Four Columns"
+msgstr "Portfolio Una Columna"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio One Column"
+msgstr "Portfolio Cuatro Columnas"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Two Columns"
+msgstr "Portfolio Dos Columnas"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Three Columns"
+msgstr "Portfolio Tres Columnas"
+
+#. Template Name of the plugin/theme
+msgid "Page Blocks"
+msgstr "Bloques de Página"
+
+#. Template Name of the plugin/theme
+msgid "FAQ"
+msgstr "Preguntas Frecuentes"
+
+#: views/snippets/top-bar.php:17 views/snippets/top-bar.php:27
+msgid "Languages"
+msgstr "Idiomas"
+
+#: views/snippets/author-info.php:16
+msgid "View all posts by %s <span class=\"icon-chevron-sign-right\"></span>"
+msgstr "Ver todas las entradas por %s <span class=\"icon-chevron-sign-right\"></span>"
+
+#: views/snippets/prev-next-nav.php:10
+msgctxt "Previous post link"
+msgid "&larr; Previous post link"
+msgstr "&larr; Enlace a entrada previa"
+
+#: views/snippets/prev-next-nav.php:11
+msgctxt "Next post link"
+msgid "Next post link &rarr;"
+msgstr "Enlace a próxima entrada &rarr;"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar Plugin %1$s (%2$d/%3$d)"
+
+#: tag.php:11
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta: %s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones completadas."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y Activación Plugin %1$s (%2$d/%3$d)"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación ha comenzado. Este proceso puede tardar un poco según el alojamiento, por favor sea paciente."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3370
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Esconder detalles"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3370
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Ver Detalles"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s Instalado y activado correctamente."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s fallida."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos alojamientos, por favor sea paciente."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "A ocurrido un error durante la instalación %1$s: <strong>%2$s</strong>."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Fallo en la activación de Plugin."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activar:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Aplicar"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Instalar"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Escribir"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Origen"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "No hay plugins para instalar, actualizar o activar. <a href=\"%1$s\" title=\"Volver al Escritorio\">Volver al Escritorio</a>"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "A instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "A instalar <span class=\"count\">(%s)</span>"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Activar"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Repositorio WordPress"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "RECOMENDADO"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Obligatorio"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:1116
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:828
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:935
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Requiere actualización"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con al administrador de este sitio."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Establece la variable de configuración parent_slug en su lugar."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugin instalados y activados correctamente. %1$s"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin desactivado. Necesitas una versión superior de %s para este tema. Por favor, actualiza el plugin."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar la actualización del plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Volver al Escritorio"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:400
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin se ha activado correctamente:"
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Lo siento pero no tienes suficientes permisos para activar el plugin %1$s."
+msgstr[1] "Lo siento pero no tienes suficientes permisos para activar los plugins %1$s."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Lo siento pero no tienes suficientes permisos para actualizar el plugin %1$s."
+msgstr[1] "Lo siento pero no tienes suficientes permisos para actualizar los plugins %1$s."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Lo siento pero no tienes suficientes permisos para instalar el plugin %1$s."
+msgstr[1] "Lo siento pero no tienes suficientes permisos para instalar los plugins %1$s."
+
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:208
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:212
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:216
+msgctxt "font style"
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:138
+msgid "Khmer"
+msgstr "Khmer"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:141
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:139
+msgid "Latin"
+msgstr "Latin"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:140
+msgid "Latin Extended"
+msgstr "Latin Extended"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:137
+msgid "Greek Extended"
+msgstr "Greek Extended"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:136
+msgid "Greek"
+msgstr "Griego"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:218
+msgid "Background Opacity"
+msgstr "Opacidad de Fondo"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:133
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:134
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:135
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:197
+msgid "Center Bottom"
+msgstr "Centro Inferior"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:200
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:191
+msgid "Left Bottom"
+msgstr "Inferior Izquierda"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:192
+msgid "Right Top"
+msgstr "Superior Derecha"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:193
+msgid "Right Center"
+msgstr "Centro Derecha"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:194
+msgid "Right Bottom"
+msgstr "Inferior Derecha"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:195
+msgid "Center Top"
+msgstr "Centro Superior"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:196
+msgid "Center Center"
+msgstr "Centrado Centrado"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:189
+msgid "Left Top"
+msgstr "Superior Izquierda"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:190
+msgid "Left Center"
+msgstr "Centro Izquierda"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:176
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:172
+msgid "Scroll"
+msgstr "Scroll"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:153
+msgid "Contain"
+msgstr "Contiene"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:157
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:171
+msgid "Fixed"
+msgstr "Fija"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:152
+msgid "Cover"
+msgstr "Cubrir"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:138
+msgid "Background Repeat"
+msgstr "Repetir Imagen de Fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:134
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:135
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:151
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:170
+msgid "Inherit"
+msgstr "Heredar"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:132
+msgid "Repeat All"
+msgstr "Repetir Todos"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:133
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:131
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:118
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/controls-init.php:105
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Upload_Control.php:66
+msgid "Remove"
+msgstr "Quitar"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:163
+msgid "Select File"
+msgstr "Selecciona Archivo"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:160
+msgid "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
+msgstr "Arrastra un archivo aquí o <a href=\"#\" class=\"upload\">elige un archivo</a>."
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:156
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr "El navegador web de tu dispositivo no puede subir archivos. Podrías probar la <a href=\"%s\">aplicación nativa de tu dispositivo</a> en su lugar."
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:118
+msgid "Remove Image"
+msgstr "Eliminar Imagen"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:36
+msgid "Uploaded"
+msgstr "Subido"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:35
+msgid "Upload New"
+msgstr "Añadir nueva"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Image_Control.php:31
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Color_Control.php:95
+msgid "Hex Value"
+msgstr "Valor hexadecimal "
+
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Color_Control.php:37
+msgid "Default"
+msgstr "Por omisión"
+
+#: smart-lib/template-tags.php:850
+msgid "Reply"
+msgstr "Respuesta"
+
+#: smart-lib/template-tags.php:837
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: smart-lib/template-tags.php:832
+msgid "Edit"
+msgstr "Editor"
+
+#. translators: 1: date, 2: time
+#: smart-lib/template-tags.php:829
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: smart-lib/template-tags.php:823
+msgid "Post author"
+msgstr "Autor del artículo"
+
+#: smart-lib/template-tags.php:636 views/snippets/prev-next-nav.php:7
+msgid "Post navigation"
+msgstr "Navegación de la entrada"
+
+#: smart-lib/template-tags.php:541
+msgid "Related works"
+msgstr "Trabajos relacionados"
+
+#: smart-lib/template-tags.php:466 views/content-loop-sidebar.php:14
+#: views/content-loop.php:19 views/content-search.php:14
+#: views/snippets/sticky-slider.php:31
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: smart-lib/template-tags.php:442
+msgid "Related posts"
+msgstr "Entradas relacionadas"
+
+#: smart-lib/template-tags.php:311 views/snippets/top-search.php:8
+msgid "Search for ..."
+msgstr "Buscar..."
+
+#: smart-lib/integrations/page-builder-integration.php:37
+msgid "Half Column"
+msgstr "Media Columna"
+
+#: smart-lib/integrations/page-builder-integration.php:40
+msgid "Use this in the fluid section to force widget display in column."
+msgstr "Use esto en la sección fluida para forzar la visualización del widget en columna."
+
+#: smart-lib/integrations/page-builder-integration.php:56
+msgid "Parallax scrolling "
+msgstr "Parallax scrolling "
+
+#: smart-lib/integrations/page-builder-integration.php:59
+msgid "Add parallax scroll effect"
+msgstr "Agregar efecto parallax scroll"
+
+#: smart-lib/integrations/page-builder-integration.php:64
+msgid "Overlay background color"
+msgstr "Color de fondo de superposición"
+
+#: smart-lib/integrations/page-builder-integration.php:67
+msgid "Adds colored layer with some transparency over background image"
+msgstr "Agrega capa de color con un poco de transparencia sobre la imagen de fondo "
+
+#: smart-lib/integrations/page-builder-integration.php:82
+msgid "No Padding Columns"
+msgstr "Sin Relleno de Columnas"
+
+#: smart-lib/integrations/page-builder-integration.php:85
+msgid "All columns in this row have no padding."
+msgstr "Todas las columnas en esta fila carecen de relleno"
+
+#: smart-lib/integrations/page-builder-integration.php:91
+msgid "Dark Section"
+msgstr "Sección Oscura"
+
+#: smart-lib/integrations/page-builder-integration.php:94
+msgid "Section with dark background and light text"
+msgstr "Sección con fondo oscuro y texto claro"
+
+#: smart-lib/classes/smartlib-customizer.php:440
+msgid "Slider Shortcode"
+msgstr "Slider Shortcode"
+
+#: smart-lib/classes/smartlib-customizer.php:481
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: smart-lib/classes/smartlib-customizer.php:615
+msgid "More available in pro version &#187;"
+msgstr "Mas disponible en la versión pro &#187;"
+
+#: smart-lib/classes/smartlib-customizer.php:621
+msgid "Available in pro version"
+msgstr "Disponible en la versión pro"
+
+#: smart-lib/classes/smartlib-customizer.php:426
+msgid "Yes"
+msgstr "Si"
+
+#: smart-lib/classes/smartlib-customizer.php:373
+msgid "Upload favicon"
+msgstr "Subir Favicon"
+
+#: smart-lib/classes/smartlib-customizer.php:403
+msgid "Hide Header"
+msgstr "Ocultar header"
+
+#: smart-lib/classes/smartlib-customizer.php:425
+msgid "No"
+msgstr "No"
+
+#: smart-lib/classes/smartlib-customizer.php:396
+msgid "Home Page Header:"
+msgstr "Encabezado de Página Principal:"
+
+#: smart-lib/classes/smartlib-customizer.php:402
+msgid "Show header"
+msgstr "Mostrar encabezado"
+
+#: smart-lib/classes/smartlib-customizer.php:420
+msgid "Fluid header:"
+msgstr "Encabezado fluido:"
+
+#: smart-lib/classes/smartlib-customizer.php:357
+#: smart-lib/vendor/kirki/includes/controls/class-Kirki_Customize_Upload_Control.php:65
+msgid "Upload"
+msgstr "Cargar"
+
+#: smart-lib/classes/smartlib-customizer.php:311
+msgid "Copyright text"
+msgstr "Copyright Text"
+
+#: smart-lib/classes/smartlib-customizer.php:330
+msgid "Separator"
+msgstr "Separador"
+
+#: smart-lib/classes/smartlib-customizer.php:270
+msgid "Footer Section"
+msgstr "Sección de Pie de Página"
+
+#: smart-lib/classes/smartlib-customizer.php:294
+msgid "Header info"
+msgstr "Información de Encabezado"
+
+#: smart-lib/classes/smartlib-customizer.php:262
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: smart-lib/classes/smartlib-customizer.php:244
+msgid "Navbar Area"
+msgstr "Área de barra de navegación"
+
+#: smart-lib/classes/smartlib-customizer.php:250
+msgid "Top Bar Section"
+msgstr "Sección de Barra Superior"
+
+#: smart-lib/classes/smartlib-customizer.php:256
+msgid "Main Navbar Style"
+msgstr "Estilo de Barra de Navegación Principal"
+
+#: smart-lib/classes/smartlib-customizer.php:204
+msgid "Default Button"
+msgstr "Botón Predeterminado"
+
+#: smart-lib/classes/smartlib-customizer.php:146
+msgid "Fonts & Text Colors"
+msgstr "Colores de Fuente & Texto"
+
+#: smart-lib/classes/smartlib-customizer.php:151
+msgid "General Text Settings"
+msgstr "Configuraciones Generales de Texto"
+
+#: smart-lib/classes/smartlib-customizer.php:157
+msgid "H1 Style"
+msgstr "Estilo H1"
+
+#: smart-lib/classes/smartlib-customizer.php:163
+msgid "H2 Style"
+msgstr "Estilo H2"
+
+#: smart-lib/classes/smartlib-customizer.php:169
+msgid "H3 Style"
+msgstr "Estilo H3"
+
+#: smart-lib/classes/smartlib-customizer.php:174
+msgid "H4 Style"
+msgstr "Estilo H4"
+
+#: smart-lib/classes/smartlib-customizer.php:180
+msgid "H5 Style"
+msgstr "Estilo H5"
+
+#: smart-lib/classes/smartlib-customizer.php:186
+msgid "H6 Style"
+msgstr "Estilo H6"
+
+#: smart-lib/classes/smartlib-customizer.php:192
+msgid "Links Style"
+msgstr "Estilo de Enlaces"
+
+#: smart-lib/classes/smartlib-customizer.php:199
+msgid "Buttons Settings"
+msgstr "Configuraciones de Botones"
+
+#: smart-lib/classes/smartlib-customizer.php:210
+msgid "Primary Button"
+msgstr "Botón Primario"
+
+#: smart-lib/classes/smartlib-customizer.php:216
+msgid "Success Button"
+msgstr "Botón de Éxito"
+
+#: smart-lib/classes/smartlib-customizer.php:222
+msgid "Info Button"
+msgstr "Botón de Información"
+
+#: smart-lib/classes/smartlib-customizer.php:228
+msgid "Warning Button"
+msgstr "Botón de Advertencia"
+
+#: smart-lib/classes/smartlib-customizer.php:234
+msgid "Danger Button"
+msgstr "Botón de Peligro"
+
+#: smart-lib/classes/smartlib-customizer.php:123
+msgid "Pages Settings"
+msgstr "Ajustes de las Páguinas"
+
+#: smart-lib/classes/smartlib-customizer.php:136
+msgid "Layout"
+msgstr "Estructura"
+
+#: smart-lib/classes/smartlib-customizer.php:128
+msgid "Blog Settings"
+msgstr "Configuración de Blog"
+
+#: smart-lib/classes/smartlib-customizer.php:107
+msgid "Home Page"
+msgstr "Pagina principal"
+
+#: smart-lib/classes/smartlib-customizer.php:90
+msgid "Custom Code"
+msgstr "Código personalizado"
+
+#: smart-lib/classes/smartlib-customizer.php:83
+msgid "Gallery"
+msgstr "Galeria"
+
+#: smart-lib/classes/smartlib-customizer.php:69
+msgid "Logo & favicon"
+msgstr "Logo & favicon"
+
+#: smart-lib/classes/smartlib-customizer.php:77
+msgid "Loading Animation"
+msgstr "Animación de Carga"
+
+#: smart-lib/classes/class-smartlib-filters.php:284
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: smart-lib/classes/smartlib-customizer.php:63
+msgid "General"
+msgstr "Opciones generales"
+
+#: smart-lib/classes/class-smartlib-actions.php:886
+msgid "Submit"
+msgstr "Someter"
+
+#: smart-lib/classes/class-smartlib-actions.php:886
+msgid "Password:"
+msgstr "Clave:"
+
+#: smart-lib/classes/class-smartlib-actions.php:886
+msgid "To view this protected post, enter the password below:"
+msgstr "Para ver esta entrada protegida, por favor ingrese su contraseña a continuación:"
+
+#: smart-lib/classes/class-smartlib-actions.php:868
+msgid "Tags: "
+msgstr "Etiquetas: "
+
+#: smart-lib/classes/class-smartlib-actions.php:853
+msgid "Published by: "
+msgstr "Publicado por:"
+
+#: smart-lib/classes/class-smartlib-actions.php:666
+msgid "Menu Not Found"
+msgstr "Menú No Encontrado"
+
+#: smart-lib/classes/class-smartlib-actions.php:647
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: smart-lib/classes/class-smartlib-actions.php:538
+#: smart-lib/template-tags.php:800
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: smart-lib/classes/class-smartlib-actions.php:538
+#: smart-lib/template-tags.php:800
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: smart-lib/classes/class-smartlib-actions.php:452
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: smart-lib/classes/class-smartlib-actions.php:451
+msgid "Next page"
+msgstr "Próxima página"
+
+#: smart-lib/classes/class-smartlib-actions.php:446
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: smart-lib/classes/class-smartlib-actions.php:416
+msgid "&larr; Older posts"
+msgstr "&larr; Artículos anteriores"
+
+#: smart-lib/classes/class-smartlib-actions.php:417
+msgid "Newer posts &rarr;"
+msgstr "Artículos recientes &rarr;"
+
+#: smart-lib/classes/class-smartlib-actions.php:347
+#: smart-lib/classes/class-smartlib-actions.php:352
+msgid " / "
+msgstr "/"
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "% Replies"
+msgstr "% respuestas"
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "1 Reply"
+msgstr "1 respuesta"
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "Comment"
+msgstr "Comentar"
+
+#: smart-lib/classes/class-smartlib-actions.php:117
+msgid "Blog Archives"
+msgstr "Archivo del Blog"
+
+#: smart-lib/classes/class-smartlib-actions.php:111
+#: smart-lib/classes/class-smartlib-actions.php:113
+#: smart-lib/classes/class-smartlib-actions.php:115
+msgid "%s"
+msgstr "%s"
+
+#: smart-lib/classes/class-custom-widgets.php:2049
+msgid "Button Text:"
+msgstr "Texto del botón:"
+
+#: smart-lib/classes/class-custom-widgets.php:2053
+msgid "Destination URL:"
+msgstr "URL de destino:"
+
+#: smart-lib/classes/class-features.php:40
+msgid "Default Settings"
+msgstr "Ajustes por Defecto"
+
+#: smart-lib/classes/class-features.php:43
+msgid "No Sidebar"
+msgstr "Sin Sidebar"
+
+#: smart-lib/classes/class-custom-widgets.php:2036
+msgid "Text Align:"
+msgstr "Alineación de Texto:"
+
+#: smart-lib/classes/class-custom-widgets.php:2048
+msgid "Button settings"
+msgstr "Configuraciones de Botón"
+
+#: smart-lib/classes/class-custom-widgets.php:2073
+msgid "Button Align:"
+msgstr "Alineación de Botón:"
+
+#: smart-lib/classes/class-custom-widgets.php:2102
+msgid "Display animated counter box"
+msgstr "Visualizar caja contadora animada"
+
+#: smart-lib/classes/class-custom-widgets.php:2233
+msgid "Box Label:"
+msgstr "Etiqueta de Caja:"
+
+#: smart-lib/classes/class-custom-widgets.php:2240
+msgid "Number:"
+msgstr "Número:"
+
+#: smart-lib/classes/class-custom-widgets.php:2267
+msgid "Display your team members in columns"
+msgstr "Visualizar los miembros de su equipo en columnas"
+
+#: smart-lib/classes/class-custom-widgets.php:2430
+msgid "Coulumn "
+msgstr "Columna"
+
+#: smart-lib/classes/class-custom-widgets.php:2434
+msgid "Select User"
+msgstr "Seleccionar Usuario"
+
+#: smart-lib/classes/class-features.php:35
+msgid "Category layout"
+msgstr "Diseño de Categoría"
+
+#: smart-lib/classes/class-custom-widgets.php:1635
+msgid "Category Articles:"
+msgstr "Artículos de Categoría:"
+
+#: smart-lib/classes/class-custom-widgets.php:1688
+msgid "Displays testimonials"
+msgstr "Visualizar testimonios"
+
+#: smart-lib/classes/class-custom-widgets.php:1834
+msgid "Display content from selected page"
+msgstr "Visualizar contenido de página seleccionada"
+
+#: smart-lib/classes/class-custom-widgets.php:1911
+#: smart-lib/classes/class-custom-widgets.php:2058
+msgid "Select Page:"
+msgstr "Seleccionar Página:"
+
+#: smart-lib/classes/class-custom-widgets.php:1942
+msgid "Display call to action block"
+msgstr "Visualizar bloque de llamada a acción"
+
+#: smart-lib/classes/class-custom-widgets.php:2030
+msgid "Call to Action Text:"
+msgstr "Texto de Llamada a Acción:"
+
+#: smart-lib/classes/class-custom-widgets.php:1571
+msgid "Read more"
+msgstr "Leer Mas"
+
+#: smart-lib/classes/class-custom-widgets.php:1476
+#: smart-lib/classes/class-custom-widgets.php:1657
+msgid "How many items is displayed:"
+msgstr "Cuantos elementos son visualizados:"
+
+#: smart-lib/classes/class-custom-widgets.php:1507
+msgid "Displays the latest articles in Columns"
+msgstr "Visualiza los últimos artículos en Columnas"
+
+#: smart-lib/classes/class-custom-widgets.php:1456
+#: smart-lib/classes/class-custom-widgets.php:1637
+#: smart-lib/vendor/kirki/includes/functions/class-Kirki_Fonts.php:132
+msgid "All"
+msgstr "Todo"
+
+#: smart-lib/classes/class-custom-widgets.php:1454
+msgid "Portfolio Category:"
+msgstr "Categoría de Portfolio:"
+
+#: smart-lib/classes/class-custom-widgets.php:1307
+msgid "Displays last portfolio item"
+msgstr "Visualiza último ítem de portfolio"
+
+#: smart-lib/classes/class-custom-widgets.php:1379
+msgid "View More"
+msgstr "Mostrar Más"
+
+#: smart-lib/classes/class-custom-widgets.php:1416
+#: smart-lib/classes/class-custom-widgets.php:1795
+#: smart-lib/classes/class-custom-widgets.php:2398
+msgid "Please install Smartlib Tools"
+msgstr "Por favor instale Smartlib Tools"
+
+#: smart-lib/classes/class-custom-widgets.php:1285
+msgid "Large"
+msgstr "Largo"
+
+#: smart-lib/classes/class-custom-widgets.php:1283
+msgid "Medium"
+msgstr "﻿Medio"
+
+#: smart-lib/classes/class-custom-widgets.php:1281
+msgid "Small"
+msgstr "Chico"
+
+#: smart-lib/classes/class-custom-widgets.php:1125
+msgid "Please install Contact Form 7 plugin from"
+msgstr "Por favor instale plugin de formularios Contact Form 7"
+
+#: smart-lib/classes/class-custom-widgets.php:1143
+msgid "Select Form:"
+msgstr "Seleccione Formulario:"
+
+#: smart-lib/classes/class-custom-widgets.php:1175
+msgid "Section Header"
+msgstr "Sección Encabezado"
+
+#: smart-lib/classes/class-custom-widgets.php:1256
+msgid "Header Subtitle:"
+msgstr "Subtitulo de Encabezado:"
+
+#: smart-lib/classes/class-custom-widgets.php:1264
+msgid "Header Align:"
+msgstr "Alineación de Encabezado:"
+
+#: smart-lib/classes/class-custom-widgets.php:1268
+#: smart-lib/classes/class-custom-widgets.php:2040
+#: smart-lib/classes/class-custom-widgets.php:2077
+msgid "Left Align"
+msgstr "Alineación Izquierda"
+
+#: smart-lib/classes/class-custom-widgets.php:1270
+#: smart-lib/classes/class-custom-widgets.php:2042
+#: smart-lib/classes/class-custom-widgets.php:2079
+msgid "Center Align"
+msgstr "Alineación Centrada"
+
+#: smart-lib/classes/class-custom-widgets.php:1272
+#: smart-lib/classes/class-custom-widgets.php:2044
+#: smart-lib/classes/class-custom-widgets.php:2081
+msgid "Right Align"
+msgstr "Alineación Derecha"
+
+#: smart-lib/classes/class-custom-widgets.php:1277
+msgid "Header Size:"
+msgstr "Tamaño de Encabezado:"
+
+#: smart-lib/classes/class-custom-widgets.php:1071
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: smart-lib/classes/class-custom-widgets.php:1059
+msgid "Display Contact Form 7 form in Your sidebar"
+msgstr "Visualizar formulario Contact Form 7 en su barra lateral"
+
+#: smart-lib/classes/class-custom-widgets.php:1033
+msgid "External link"
+msgstr "Enlace externo"
+
+#: smart-lib/classes/class-custom-widgets.php:997
+msgid "Box image:"
+msgstr "Caja de imagen:"
+
+#: smart-lib/classes/class-custom-widgets.php:1021
+msgid "Box Text:"
+msgstr "Texto de caja:"
+
+#: smart-lib/classes/class-custom-widgets.php:1029
+msgid "Box read more link"
+msgstr "Caja de enlace de leer mas"
+
+#: smart-lib/classes/class-custom-widgets.php:1030
+msgid "Choose Page"
+msgstr "Seleccionar Página"
+
+#: smart-lib/classes/class-custom-widgets.php:930
+msgid "Learn More"
+msgstr "Saber Más"
+
+#: smart-lib/classes/class-custom-widgets.php:739
+msgid "Displays last posts from the gallery post format"
+msgstr "Visualiza las últimas entradas del formato de entrada de galería"
+
+#: smart-lib/classes/class-custom-widgets.php:886
+msgid "Extend Content"
+msgstr "Contenido Extendido"
+
+#: smart-lib/classes/class-custom-widgets.php:714
+#: smart-lib/classes/class-custom-widgets.php:860
+msgid "Limit:"
+msgstr "Límite:"
+
+#: smart-lib/classes/class-custom-widgets.php:613
+msgid "Displays last posts from the video post format"
+msgstr "Visualiza las últimas entradas del formato de entrada de video"
+
+#: smart-lib/classes/class-custom-widgets.php:460
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: smart-lib/classes/class-custom-widgets.php:465
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: smart-lib/classes/class-custom-widgets.php:469
+msgid "LinkedIn:"
+msgstr "Linkedin:"
+
+#: smart-lib/classes/class-custom-widgets.php:589
+msgid "Link:"
+msgstr "Vínculo:"
+
+#: smart-lib/classes/class-custom-widgets.php:494
+msgid "Featured Video Widget"
+msgstr "Widget de Video Destacado"
+
+#: smart-lib/classes/class-custom-widgets.php:580
+msgid "Embed code:"
+msgstr "Embeber código:"
+
+#: smart-lib/classes/class-custom-widgets.php:584
+msgid "More text:"
+msgstr "Más texto:"
+
+#: smart-lib/classes/class-custom-widgets.php:220
+msgid "Display post thumbnail?"
+msgstr "¿Mostrar miniatura de la entrada?"
+
+#: smart-lib/classes/class-custom-widgets.php:445
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: smart-lib/classes/class-custom-widgets.php:455
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: smart-lib/classes/class-custom-widgets.php:227
+msgid "Display post author?"
+msgstr "Visualiza el autor de la entrada?"
+
+#: smart-lib/classes/class-custom-widgets.php:245
+msgid "Short  info & avatar"
+msgstr "Información corta & avatar"
+
+#: smart-lib/classes/class-custom-widgets.php:321
+msgid "Authot Name:"
+msgstr "Nombre de Autor:"
+
+#: smart-lib/classes/class-custom-widgets.php:337
+msgid "Avatar Size:"
+msgstr "Tamaño de Avatar:"
+
+#: smart-lib/classes/class-custom-widgets.php:367
+msgid "Add social profile icons"
+msgstr "Agregar íconos de perfiles sociales"
+
+#: smart-lib/classes/class-custom-widgets.php:439
+msgid "Short Title:"
+msgstr "Título Corto:"
+
+#: smart-lib/classes/class-custom-widgets.php:450
+msgid "Google+:"
+msgstr "Google+:"
+
+#: smart-lib/classes/class-custom-widgets.php:213
+msgid "Display post date?"
+msgstr "¿Mostrar la fecha de la entrada?"
+
+#: smart-lib/classes/class-custom-widgets.php:204
+msgid "Number of posts to show:"
+msgstr "Número de entradas que mostrar:"
+
+#: smart-lib/classes/class-custom-widgets.php:98
+msgid "Recent Posts"
+msgstr "Mensajes recientes"
+
+#: smart-lib/classes/class-custom-widgets.php:86
+msgid "The most recent posts on your site (extended contorls)"
+msgstr "Las entradas más recientes en su sitio (controles extendidos)"
+
+#: smart-lib/classes/class-custom-widgets.php:54
+#: smart-lib/classes/class-custom-widgets.php:198
+#: smart-lib/classes/class-custom-widgets.php:314
+#: smart-lib/classes/class-custom-widgets.php:574
+#: smart-lib/classes/class-custom-widgets.php:707
+#: smart-lib/classes/class-custom-widgets.php:853
+#: smart-lib/classes/class-custom-widgets.php:989
+#: smart-lib/classes/class-custom-widgets.php:1138
+#: smart-lib/classes/class-custom-widgets.php:1249
+#: smart-lib/classes/class-custom-widgets.php:1442
+#: smart-lib/classes/class-custom-widgets.php:1809
+#: smart-lib/classes/class-custom-widgets.php:1906
+#: smart-lib/classes/class-custom-widgets.php:2026
+#: smart-lib/classes/class-custom-widgets.php:2224
+#: smart-lib/classes/class-custom-widgets.php:2419
+msgid "Title:"
+msgstr "﻿Título:"
+
+#: smart-lib/classes/class-custom-widgets.php:25
+msgid "A search form for your site"
+msgstr "Un formulario de búsqueda para tu sitio"
+
+#: smart-lib/class-customizer-options.php:520
+msgid "H2 Font Family"
+msgstr "Familia de Fuentes H2"
+
+#: smart-lib/class-customizer-options.php:533
+msgid "H2 Text Color"
+msgstr "Color de Texto H2"
+
+#: smart-lib/class-customizer-options.php:543
+msgid "H2 Font Size (px)"
+msgstr "Tamaño de Fuente H2 (px)"
+
+#: smart-lib/class-customizer-options.php:561
+msgid "Links Text Color"
+msgstr "Color de texto de enlaces"
+
+#: smart-lib/class-customizer-options.php:571
+msgid "Links Hover Text Color"
+msgstr "Color de textos de enlaces hover"
+
+#: smart-lib/class-customizer-options.php:588
+msgid "Background Default Button"
+msgstr "Fondo de botón default"
+
+#: smart-lib/class-customizer-options.php:596
+msgid "Background Default Button Hover"
+msgstr "Fondo de botón default hover"
+
+#: smart-lib/class-customizer-options.php:613
+msgid "Background  Button"
+msgstr "Fondo de botón"
+
+#: smart-lib/class-customizer-options.php:621
+msgid "Background Button Hover"
+msgstr "Fondo de botón hover"
+
+#: smart-lib/class-customizer-options.php:513
+msgid "Bold"
+msgstr "Negrita"
+
+#: smart-lib/class-customizer-options.php:512
+msgid "Normal"
+msgstr "Normal"
+
+#: smart-lib/class-customizer-options.php:499
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: smart-lib/class-customizer-options.php:507
+msgid "H1 Font Weight"
+msgstr "Peso de Fuente H1"
+
+#: smart-lib/class-customizer-options.php:498
+msgid "None"
+msgstr "Nada"
+
+#: smart-lib/class-customizer-options.php:455
+msgid "H1 Font Family"
+msgstr "Familia de Fuente H1"
+
+#: smart-lib/class-customizer-options.php:458
+#: smart-lib/class-customizer-options.php:523
+msgid "Choose a default font family for H1 heading"
+msgstr "Seleccione una familia de fuente default para encabezados H1"
+
+#: smart-lib/class-customizer-options.php:468
+msgid "H1 Text Color"
+msgstr "Color de texto H1"
+
+#: smart-lib/class-customizer-options.php:478
+msgid "H1 Font Size (px)"
+msgstr "Tamaño de Fuente H1 (px)"
+
+#: smart-lib/class-customizer-options.php:493
+msgid "H1 Text Transform"
+msgstr "Transformación de Fuente H1"
+
+#: smart-lib/class-customizer-options.php:445
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: smart-lib/class-customizer-options.php:435
+msgid "Choose a default font for your site"
+msgstr "Seleccione una fuente default para su sitio"
+
+#: smart-lib/class-customizer-options.php:432
+msgid "Font Family"
+msgstr "Familia de la fuente"
+
+#: smart-lib/class-customizer-options.php:366
+msgid "Links Hover/Active Color"
+msgstr "Enlaces Hover/Color Activo"
+
+#: smart-lib/class-customizer-options.php:376
+msgid "Links Hover/Active Background"
+msgstr "Enlaces Hover/Fondo Activo"
+
+#: smart-lib/class-customizer-options.php:391
+msgid "Display sidebar in footer"
+msgstr "Visualizar barra lateral en pie de página"
+
+#: smart-lib/class-customizer-options.php:405
+msgid "Footer Sidebar Background"
+msgstr "Fondo de barra lateral de pie de página"
+
+#: smart-lib/class-customizer-options.php:415
+msgid "Footer Headers Color"
+msgstr "Color de encabezados de pie de página"
+
+#: smart-lib/class-customizer-options.php:356
+msgid "Links Color"
+msgstr "Color de los enlaces"
+
+#: smart-lib/class-customizer-options.php:329
+msgid "You can also change this setting on every single page. At this point, choose option which you will use most often"
+msgstr "Usted también puede cambiar esta configuración en cada página. En este punto, elija la opción que usará mas frecuentemente."
+
+#: smart-lib/class-customizer-options.php:344
+msgid "Menu Font Family"
+msgstr "Familia de Fuente de Menú"
+
+#: smart-lib/class-customizer-options.php:258
+msgid "Show Top Bar"
+msgstr "Mostrar Barra Superior"
+
+#: smart-lib/class-customizer-options.php:271
+msgid "Display social buttons in top bar"
+msgstr "Visualizar botones sociales en barra superior"
+
+#: smart-lib/class-customizer-options.php:287
+msgid "Search in navigation area"
+msgstr "Búsqueda en área de navegación"
+
+#: smart-lib/class-customizer-options.php:300
+msgid "Fixed Top Navbar"
+msgstr "Barra de Navegación Superior Fija"
+
+#: smart-lib/class-customizer-options.php:313
+msgid "In Grid Navbar"
+msgstr "Barra de Navegación en Grilla"
+
+#: smart-lib/class-customizer-options.php:328
+#: smart-lib/integrations/metabox-integration.php:156
+msgid "Display navbar over content"
+msgstr "Visualizar barra de navegación sobre el contenido"
+
+#: smart-lib/class-customizer-options.php:242 smart-lib/template-tags.php:756
+msgid "Home"
+msgstr "Página de Inicio"
+
+#: smart-lib/class-customizer-options.php:230
+msgid "Breadcrumb separator:"
+msgstr "Separador de Breadcrumb:"
+
+#: smart-lib/class-customizer-options.php:240
+msgid "Breadcrumb Home Page Name:"
+msgstr "Nombre de Página Principal de Breadcrumb:"
+
+#: smart-lib/class-customizer-options.php:224
+#: smart-lib/class-customizer-options.php:277
+#: smart-lib/class-customizer-options.php:293
+#: smart-lib/class-customizer-options.php:306
+#: smart-lib/class-customizer-options.php:320
+#: smart-lib/class-customizer-options.php:335
+#: smart-lib/class-customizer-options.php:397
+msgid "On"
+msgstr "En marcha"
+
+#: smart-lib/class-customizer-options.php:223
+#: smart-lib/class-customizer-options.php:276
+#: smart-lib/class-customizer-options.php:292
+#: smart-lib/class-customizer-options.php:305
+#: smart-lib/class-customizer-options.php:319
+#: smart-lib/class-customizer-options.php:334
+#: smart-lib/class-customizer-options.php:396
+msgid "Off"
+msgstr "Parado"
+
+#: smart-lib/class-customizer-options.php:188
+msgid "Show Categories (Default)"
+msgstr "Mostrar Categorías (Default)"
+
+#: smart-lib/class-customizer-options.php:201
+msgid "Show Post Format (Default)"
+msgstr "Mostrar Formato de Entrada (Default)"
+
+#: smart-lib/class-customizer-options.php:218
+msgid "Show Breadcrumb:"
+msgstr "Mostrar Breadcrumb:"
+
+#: smart-lib/class-customizer-options.php:162
+msgid "Show Author (Default)"
+msgstr "Mostrar Autor (Default)"
+
+#: smart-lib/class-customizer-options.php:175
+msgid "Show Date (Default)"
+msgstr "Mostrar Fecha (Default)"
+
+#: smart-lib/class-customizer-options.php:155
+msgid "Numbers"
+msgstr "Números"
+
+#: smart-lib/class-customizer-options.php:154
+msgid "Prev/Next"
+msgstr "Previo/Próximo"
+
+#: smart-lib/class-customizer-options.php:148
+#: smart-lib/classes/smartlib-customizer.php:115
+msgid "Pagination"
+msgstr "Paginacion"
+
+#: smart-lib/class-customizer-options.php:125
+msgid "Default Layout Settings:"
+msgstr "Configuraciónes de Diseño Default:"
+
+#: smart-lib/class-customizer-options.php:52
+#: smart-lib/class-customizer-options.php:66
+#: smart-lib/class-customizer-options.php:168
+#: smart-lib/class-customizer-options.php:181
+#: smart-lib/class-customizer-options.php:194
+#: smart-lib/class-customizer-options.php:207
+#: smart-lib/class-customizer-options.php:264
+msgid "ON"
+msgstr "en"
+
+#: smart-lib/class-customizer-options.php:109
+msgid "Sidebar Width"
+msgstr "Ancho de Barra Lateral"
+
+#: smart-lib/class-customizer-options.php:76
+msgid "Custom Scripts for Header [header.php]"
+msgstr "Scripts a medida para el Encabezado [header.php]"
+
+#: smart-lib/class-customizer-options.php:85
+msgid "Custom Scripts for Footer [footer.php]"
+msgstr "Scripts a medida para el Pie de Página [footer.php]"
+
+#: smart-lib/class-customizer-options.php:95
+msgid "Page Width"
+msgstr "Ancho de Página"
+
+#: smart-lib/class-customizer-options.php:51
+#: smart-lib/class-customizer-options.php:65
+#: smart-lib/class-customizer-options.php:167
+#: smart-lib/class-customizer-options.php:180
+#: smart-lib/class-customizer-options.php:193
+#: smart-lib/class-customizer-options.php:206
+#: smart-lib/class-customizer-options.php:263
+msgid "OFF"
+msgstr "Deshabilitado"
+
+#: smart-lib/class-customizer-options.php:46
+#: smart-lib/class-customizer-options.php:60
+msgid "Enabling this option will display photos using prettyPhoto lightbox"
+msgstr "Habilitando esta opción se visualizaran fotos usando prettyPhoto lightbox"
+
+#: smart-lib/class-customizer-options.php:35
+msgid "Show"
+msgstr "Show"
+
+#: smart-lib/activation.php:230
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados correctamente. %s"
+
+#: smart-lib/class-customizer-options.php:34
+#: smart-lib/class-customizer-options.php:153
+msgid "Hide"
+msgstr "Esconder"
+
+#: smart-lib/class-customizer-options.php:29
+msgid "Enabling this option will display animation while page loads"
+msgstr "Habilitando esta opción se visualizará animación mientras la página carga"
+
+#: smart-lib/activation.php:229
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:399
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: smart-lib/activation.php:227
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar plugin"
+msgstr[1] "Comenzar a activar plugins"
+
+#: smart-lib/activation.php:228
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de Plugins"
+
+#: smart-lib/activation.php:225
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo sentimos, no tienes permisos para actualizar el plugin %s. Contacta con el administrador de la web para recibir asistencia acerca de la actualización de plugins."
+msgstr[1] "Lo sentimos, no tienes permisos para actualizar los plugins %s. Contacta con el administrador de la web para recibir asistencia acerca de la actualización de plugins."
+
+#: smart-lib/activation.php:226
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
+
+#: smart-lib/activation.php:224
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#: smart-lib/activation.php:222
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Recomienda el siguiente plugin está actualmente inactiva: %1$s."
+msgstr[1] "Recomienda lo siguiente los plugins son actualmente inactivos: %1$s."
+
+#: smart-lib/activation.php:223
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo sentimos, no tienes permisos para activar el plugin %s. Contacta con el administrador de la web para recibir asistencia acerca de la activación de plugins."
+msgstr[1] "Lo sentimos, no tienes permisos para activar los plugins %s. Contacta con el administrador de la web para recibir asistencia acerca de la activación de plugins."
+
+#: smart-lib/activation.php:221
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente requiere plugin está actualmente inactiva: %1$s."
+msgstr[1] "El siguiente requiere los plugins son actualmente inactivos: %1$s."
+
+#: smart-lib/activation.php:220
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo sentimos, no tienes permisos para instalar el plugin %s. Contacta con el administrador de la web para recibir asistencia acerca de la instalación de plugins."
+msgstr[1] "Lo sentimos, no tienes permisos para instalar los plugins %s. Contacta con el administrador de la web para recibir asistencia acerca de la instalación de plugins."
+
+#: smart-lib/activation.php:219
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este Tema recomienda utilizar el plugin: %1$s."
+msgstr[1] "Este Tema recomienda utilizar los plugins: %1$s."
+
+#: smart-lib/activation.php:217
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con API del plugin."
+
+#: smart-lib/activation.php:218
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: smart-lib/activation.php:216
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: smart-lib/activation.php:215
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: smart-lib/activation.php:214
+#: smart-lib/vendor/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Requiere instalar plugins"
+
+#: smart-lib/activation.php:83
+msgid "More Info"
+msgstr "Más información"
+
+#: smart-lib/activation.php:48
+msgid "BootFrame Premium"
+msgstr "BootFrame Premium"
+
+#: smart-lib/activation.php:52
+msgid "Need more features, extensive documentation and theme support? Learn more about BootFrame Premium!"
+msgstr "Necesita mas características, documentación extensiva y soporte de tema? Lea mas sobre BootFrame Premium!"
+
+#: smart-lib/activation.php:54
+msgid "adds exciting new customization features to the Customizer and other powerful customization tools like shortcodes or layout options."
+msgstr "Agrega excitantes nuevas características de customización al Customizador y otras potentes herramientas de customización como shortcodes u opciones de diseño."
+
+#: smart-lib/activation.php:59
+msgid "Listed below are only the extras that the paid version brings:"
+msgstr "Listados a continuación son solo los extras que la versión paga trae:"
+
+#: smart-lib/activation.php:61
+msgid "More theme options"
+msgstr "Mas opciones de tema"
+
+#: smart-lib/activation.php:62
+msgid "More custom widgets"
+msgstr "Mas custom widgets"
+
+#: smart-lib/activation.php:63
+msgid "Single page configuration panel"
+msgstr "Panel de configuración de Única Página"
+
+#: smart-lib/activation.php:64
+msgid "Advanced Slider Support"
+msgstr "Soporte para Slider Avanzado"
+
+#: smart-lib/activation.php:65
+msgid "Parallax sections support"
+msgstr "Soporte para parallax sections"
+
+#: smart-lib/activation.php:66
+msgid "WPML and Polylang Support"
+msgstr "Soporte WPML y Polylang"
+
+#: smart-lib/activation.php:67
+msgid "Advanced Custom Post Types: Portfolio, Testimonials"
+msgstr "Tipos de Entrada Custom Avanzadas: Portfolio, Testimonios"
+
+#: smart-lib/activation.php:68
+msgid "LESS files included"
+msgstr "Archivos LESS incluidos"
+
+#: smart-lib/activation.php:69
+msgid "Grunt configuration file included"
+msgstr "Archivo de configuración Grunt incluida"
+
+#: smart-lib/activation.php:70
+msgid "Extensive documentation"
+msgstr "Documentación Extensiva"
+
+#: smart-lib/activation.php:71
+msgid "One Click Demo Install"
+msgstr "Instalación Demo de un solo Click"
+
+#: smart-lib/activation.php:72
+msgid "Incredible Support"
+msgstr "Soporte Increíble"
+
+#: smart-lib/activation.php:73
+msgid "and much more..."
+msgstr "y mucho mas..."
+
+#: smart-lib/activation.php:39
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene los permisos necesarios para acceder a esta página."
+
+#: single-smartlib_portfolio.php:74
+msgid "Project Description"
+msgstr "Descripción de Proyecto"
+
+#: smart-lib/activation.php:28
+msgid "Bootframe Pro"
+msgstr "Bootframe Pro"
+
+#: searchform.php:6 smart-lib/template-tags.php:313
+#: smart-lib/template-tags.php:345
+msgid "Search"
+msgstr "Búsquedas"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo sentimos pero no hay nada que se ajuste a tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda por: %s"
+
+#: page-portfolio-one-column.php:54 single-smartlib_portfolio.php:84
+msgid "Skills:"
+msgstr "Habilidades:"
+
+#: page-portfolio-one-column.php:76 single-smartlib_portfolio.php:106
+msgid "Client: "
+msgstr "Cliente:"
+
+#: header.php:45
+msgid "Toggle navigation"
+msgstr "Cambiar navegación"
+
+#: page-portfolio-four-columns.php:27 page-portfolio.php:28
+msgid "Show All"
+msgstr "Ver Todo"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:35 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Últimos comentarios &raquo;"
+
+#: comments.php:34 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:26
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 Comentario"
+msgstr[1] "%1$s Comentarios"
+
+#: comments.php:33 comments.php:52
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: category.php:11
+msgid "Category Archives: %s"
+msgstr "Archivos de la categoría %s"
+
+#: author.php:22 smart-lib/classes/class-smartlib-actions.php:963
+#: views/snippets/author-info.php:6
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: author.php:12
+msgid "Author Archives: %s"
+msgstr "Archivo del Autor: %s"
+
+#: archive.php:18
+msgid "Archives"
+msgstr "Archivo"
+
+#: archive.php:16 smart-lib/classes/class-smartlib-actions.php:115
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: archive.php:16
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: archive.php:14 smart-lib/classes/class-smartlib-actions.php:113
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "M A"
+
+#: archive.php:14
+msgid "Monthly Archives: %s"
+msgstr "Archivo por meses: %s"
+
+#: archive.php:13
+msgid "Daily Archives: %s"
+msgstr "Archivo por días: %s"
+
+#: 404.php:19
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Disculpas, pero no se han encontrado resultados. Quizás pueda buscar una entrada relacionada."
+
+#. Author of the plugin/theme
+msgid "Peter Bielecki"
+msgstr "Peter Bielecki"
+
+#. Author URI of the plugin/theme
+msgid "http://netbiel.pl"
+msgstr "http://netbiel.pl"
+
+#. Theme URI of the plugin/theme
+msgid "http://netbiel.pl/bootframe-core/info/"
+msgstr "http://netbiel.pl/bootframe-core/info/"
